@@ -1,0 +1,3 @@
+:root.dark .box > .VPImage {
+    filter: invert(1);
+}
