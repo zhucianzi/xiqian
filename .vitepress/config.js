@@ -1,8 +1,7 @@
 import Unocss from "unocss/vite";
 import { defineConfig } from "vitepress";
 export default defineConfig({
-export default {
-    title: '汐芊体系',
+    title: '开物杀',
     themeConfig: {
         logo: '/首页资源/汐芊水印.png',
         nav: [
