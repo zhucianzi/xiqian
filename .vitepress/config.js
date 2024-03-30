@@ -34,6 +34,13 @@ export default defineConfig({
                     { text: '致谢名单', link: '/works/version/致谢.md' },
                 ]
             },
+            {
+                text: '其他',
+                items: [
+                    { text: '秉心铸魂', link: '/works' },
+                    { text: '嘭嘭好声音', link: '/works' },
+                ]
+            }
         ],
         sidebar: {
             '/works/guide/': [
