@@ -6,6 +6,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
+    "unocss": "^0.58.8",
     "vitepress": "1.0.1"
   }
 }

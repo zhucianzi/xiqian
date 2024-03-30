@@ -1,3 +1,7 @@
 :root.dark .box > .VPImage {
     filter: invert(1);
 }
+.VPHero .text {
+    font-size: 33px;
+    line-height: 44px;
+}

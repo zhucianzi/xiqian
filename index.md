@@ -46,11 +46,8 @@ features:
     icon:
       src: /icon/masks-theater-solid.svg
     details: 前两轮作为「序幕」，角色将次第亮明身份。启幕时，主公方可以凑集一笔不菲的资源笼络内奸，而反贼议定他们的未来：穷凶极恶、拥立新主、还是一条无人走过的道路...在伤亡与轮数都迈过门槛后，游戏进入改良的鏖战。
-  - title: 很可爱的开发者
-    icon:
-      src: /icon/heart-solid.svg
-    details: 真的很可爱！
----
+<div class="text-gray-5">
+</div>
 
 <script setup>
   import { VPTeamMembers } from "vitepress/theme";
