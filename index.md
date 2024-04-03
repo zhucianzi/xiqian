@@ -33,7 +33,7 @@ features:
   - title: EX身份场
     icon:
       src: /icon/masks-theater-solid.svg
-    details: 兼顾身份场的乐趣和阵营协调对抗的智慧，。
+    details: 结合身份场的和
 
 ---
 

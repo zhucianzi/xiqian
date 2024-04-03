@@ -37,7 +37,7 @@ export default defineConfig({
             {
                 text: '其他',
                 items: [
-                    { text: '秉心铸魂', link: '/works' },
+                    { text: '秉心铸魂', link: '/works/bingxinzhuhun/系列总起.md' },
                     { text: '嘭嘭好声音', link: '/works' },
                 ]
             }
